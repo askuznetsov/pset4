@@ -1,0 +1,12 @@
+1.  header file for additional data type 
+2.  in structs bitmapfileheader, bitmapinfoheader, rgbtriple
+3.  1 4 4 2
+4.  ASCII
+5.  file size and bitmapinfoheader size
+6.  scanlines
+7.  reverse order raws in bitmap
+8.  WORD biBitCount
+9.  cant open and cant create file
+10. 1
+11. set position of reading in stream
+12. сurrent position of the file pointer
